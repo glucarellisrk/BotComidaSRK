@@ -1,0 +1,14 @@
+// Obtener ID DE GRUPOs
+// client.on('ready', async () => {
+//   console.log('Cliente de WhatsApp listo!');
+//   const chats = await client.getChats();
+//   console.log("Total de chats:", chats.length);
+  
+//   // Filtrar chats que tengan id que terminen en "@g.us"
+//   const groupChats = chats.filter(chat => chat.id._serialized.endsWith('@g.us'));
+//   console.log("Total de grupos (según id):", groupChats.length);
+  
+//   groupChats.forEach(chat => {
+//     console.log(`Grupo: ${chat.name} - ID: ${chat.id._serialized}`);
+//   });
+// });
